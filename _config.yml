@@ -25,9 +25,27 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  maviator
 
+# Google Analytics
+google_analytics: UA-110694279-1
+
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-whiteglass
+gems:
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-sitemap
+
+permalink: /:year/:month/:day/:title/
+paginate_path: /posts/:num/
+paginate: 5
+
+jekyll-archives:
+  enabled:
+    - categories
+  layout: category_archives
+  permalinks:
+    category: /categories/:name/
 plugins:
   - jekyll-feed
 
