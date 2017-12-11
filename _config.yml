@@ -30,7 +30,7 @@ google_analytics: UA-110694279-1
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-whiteglass
 gems:
   - jekyll-archives
   - jekyll-paginate
