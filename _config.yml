@@ -20,7 +20,7 @@ email: mohtedibf@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This blog is for topics around Data Science, Machine Learning generally. Other topics may be included depending on personal interest.
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/maviator" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  maviator
