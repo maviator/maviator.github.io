@@ -51,5 +51,5 @@ After having the best GPA in my high school, I decided to study Mathematics to p
 - My team and I (team of 3) got 3rd place at the [ACM Tunisian Collegiate Programming Contest](https://icpc.baylor.edu/) - August 2014
 
 ## Contact
-- [email](mohtedibf@gmail.com)
+- email: mohtedibf@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/mohtadibenfraj)
