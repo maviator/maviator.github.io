@@ -43,7 +43,15 @@ $on-laptop:        800px;
   }
 }
 
+// CSS for caption centering for images
+.image-wrapper {
+    text-align: center;
 
+    .image-caption {
+        color: $grey-color;
+        margin-top: $spacing-unit / 3;
+    }
+}
 
 // Import partials from the `whiteglass` theme.
 @import "whiteglass";

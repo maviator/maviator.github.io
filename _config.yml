@@ -38,7 +38,7 @@ gems:
 
 permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:num/
-paginate: 5
+paginate: 10
 
 jekyll-archives:
   enabled:

@@ -3,6 +3,7 @@ layout: post
 title:  "How to set-up a Kaggle ready System in 3 steps"
 date:   2017-12-10 16:03:47 +0100
 categories: tutorial
+tags: tutorial kaggle
 ---
 
 It literally takes 5 min to set-up your system to be able to participate in Kaggle competitions. In this tutorial I will describe the steps to set up a python environment that can be used to compete in Kaggle competitions. This tutorial is for a Ubuntu OS.

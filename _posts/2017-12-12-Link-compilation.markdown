@@ -3,6 +3,7 @@ layout: post
 title:  "Extensive compilation of topics on machine learning and data science"
 date:   2017-12-12 14:03:47 +0100
 categories: data
+tags: MLtopics
 ---
 
 ## Overview of models

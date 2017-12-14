@@ -2,7 +2,8 @@
 layout: post
 title:  "Jupyter macros"
 date:   2017-12-11 16:03:47 +0100
-categories: tutorial
+categories: other
+tags: tutorial jupyter-notebook
 ---
 Working in data science involves data exploration, plotting and model training and evaluating. These taks are performed using multiple libraries like Pandas, Sklearn, matplotlib ...
 

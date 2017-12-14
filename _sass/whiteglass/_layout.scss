@@ -76,17 +76,19 @@
 .post-list {
   margin-left: 0;
   list-style: none;
+  
 
-  .post-link:hover {
+  .post-link {
+    font-size: 30px;
     text-decoration: none;
   }
 
   > li {
-    margin-bottom: $spacing-unit * 2;
+    margin-bottom: $spacing-unit ;
 
     &:not(:first-child) {
       border-top: 4px solid $grey-color-light;
-      padding-top: $spacing-unit * 2;
+      padding-top: $spacing-unit ;
     }
   }
 }
