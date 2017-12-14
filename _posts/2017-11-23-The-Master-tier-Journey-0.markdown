@@ -11,7 +11,7 @@ For people who are not familiar with [Kaggle](https://www.kaggle.com/), it’s a
 
 
 {% include image.html
-            img="/assets/kaggle_profile_nov_23.png"
+            img="assets/kaggle_profile_nov_23.png"
             title="kaggle profile"
             caption="Kaggle Profile on Nov 23 2017" %}
 
