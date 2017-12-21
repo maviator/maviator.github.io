@@ -7,7 +7,7 @@ tags: inDepth MLtopics
 ---
 
 {% include image.html
-            img="assets/rf_cover.jpg"
+            img="assets/rf_cover.png"
             title="coursera"
             %}
 
