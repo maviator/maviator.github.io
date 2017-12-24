@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "In Depth: Parameter tuning for Gradient Boosting"
-date:   2017-12-24 09:03:47 +0100
+date:   2017-12-24 9:03:47 +0100
 categories: other
 tags: inDepth MLtopics
 ---
