@@ -739,3 +739,6 @@ plt.show()
 
 
 According to sklearn documentation for decision tree, the search for a split does not stop until at least one valid partition of the node samples is found, even if it requires to effectively inspect more than max_features features.
+
+---
+You can also check other tree based models like [Random Forest](https://maviator.github.io/2017/12/21/InDepth-Random-Forest/) and [Gradient Boosting](https://maviator.github.io/2017/12/24/InDepth-Gradient-Boosting/)
