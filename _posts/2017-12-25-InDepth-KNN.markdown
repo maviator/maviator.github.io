@@ -6,6 +6,11 @@ categories: other
 tags: inDepth MLtopics
 ---
 
+{% include image.html
+            img="assets/knn_cover.png"
+            title="coursera"
+            %}
+
 In this post we will explore the most important parameters of Sklearn KNeighbors classifier and how they impact our model in term of overfitting and underfitting.
 
 This classifier implements a k-nearest neighbors vote.
