@@ -192,7 +192,7 @@ for c in cs:
 
 
 {% include image.html
-            img="assets/svc/c_1.png"
+            img="assets/svc/c_5.png"
             title="coursera"
             %}
 
