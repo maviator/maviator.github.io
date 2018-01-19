@@ -137,7 +137,7 @@ for col in test.dtypes[test.dtypes == 'object'].index:
     test = pd.concat([test, pd.get_dummies(for_dummy, prefix=col)], axis=1)    
 ```
 
-# Model selection and tuning
+## Model selection and tuning
 This is the core of this post. We will use H2O AutoML for model selection and tuning.
 
 ```python
