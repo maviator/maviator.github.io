@@ -6,6 +6,11 @@ categories: other
 tags: recommendation-engine
 ---
 
+{% include image.html
+            img="assets/metflix/rs_cover.jpg"
+            title="coursera"
+            %}
+
 In this series of posts, I will try to build a recommendation engine to recommend similar movies to a selected title or recommend movies to a user that rates a couple of movies. This part 0 will be about how to get the data, load it and do some basic Exploratory Data Analysis (EDA). We will finish this post by creating a user-item interaction matrix that represents the ratings given by a particular user to a particular movie. In the next post, I will post how to implement:
 - User Based Collaborative Filtering (UBCF)
 - Item Based Collaborative filtering (IBCF)
