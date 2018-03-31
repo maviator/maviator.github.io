@@ -26,7 +26,7 @@ This is what we did so far
 
 ## Recommending Movies to users
 
-We pick up our code where we trained the ALS model from *implicit* library. Previous code to load and process the data can be found in the previous posts in this series or on my [Github]().
+We pick up our code where we trained the ALS model from *implicit* library. Previous code to load and process the data can be found in the previous posts in this series or on my [Github](https://github.com/maviator/metflix).
 
 ```python
 model = implicit.als.AlternatingLeastSquares(factors=10,
